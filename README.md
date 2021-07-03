@@ -2,7 +2,7 @@
 <!-- links to pages -->
 <span>
 <a href="https://www.linkedin.com/in/karalynnpartain/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of linkedIn" width="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of linkedIn" width="20px" />
 </a>
  Let's connect!
 </span>
