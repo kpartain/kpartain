@@ -7,13 +7,24 @@
  Let's connect!
 </span>
 
+### What I'm currently working on:
+  Coding Dojo 14 Week Full Stack (daily algos in each stack)
+  1. <a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed Score 10/10
+  2. <a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a>
+  3. More to come!
+
 
 <!-- repo highlights bullet points -->
 ### Repo Highlight Reel 
+In progress
 <ol>
   <li><a href="https://github.com/keyes9056/BjornRepo">Code Pair Website Redesign Using Elementor</a></li>
-  <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Pitch Spork Music Review Full Stack, React</a></li>
-  <li><a href="https://github.com/kpartain/cc-adopt-a-pet">Pet Adoption Website Full Stack, React</a></li>
+  <li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Interview Preparation Website</a></li>
+</ol>
+Completed
+</ol>
+  <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Group Project: Pitch Spork Music Review Full Stack, React</a></li>
+  <li><a href="https://github.com/kpartain/cc-adopt-a-pet">Group Project: Pet Adoption Website Full Stack, React</a></li>
 </ol>
 
 <!-- languages/tools I use images in a row-->
@@ -66,3 +77,10 @@
   <!-- wordpress -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/512px-Wordpress-Logo.svg.png" alt="wordpress" width="50px" />
 </span>  
+
+### Education
+<span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/University_of_Florida_logo.svg/264px-University_of_Florida_logo.svg.png" alt="UF" height="40px" />
+  <img src="https://launchacademy.com/wp-content/uploads/2019/02/logo.png" alt="launch academy" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Coding_Dojo.png" alt="coding dojo" height="50px" />
+</span>
