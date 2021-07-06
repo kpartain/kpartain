@@ -17,20 +17,52 @@
 </ol>
 
 <!-- languages/tools I use images in a row-->
-### Languages and Tools
+### Languages
 <span>
   <!-- Javascript -->
-  <img src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="javascript" width="50px" />
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_js_official.svg" alt="Javascript" width="50px" />
   <!-- Java -->
-  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="50px" />
-  <!-- React -->
-  <img src="https://image.flaticon.com/icons/png/512/1260/1260775.png" alt="react" width="50px" />
-  <!-- PostgreSQL -->
-  <img src="https://image.flaticon.com/icons/png/512/1265/1265531.png" alt="sql" width="50px" />
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_java.svg" alt="Java" width="50px" />
+  <!-- Python -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_python.svg" alt="Python" width="50px" />
   <!-- css -->
-  <img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="css" width="50px" />
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_css.svg" alt="CSS" width="50px" />
   <!-- html -->
-  <img src="https://image.flaticon.com/icons/png/512/1051/1051277.png" alt="html" width="50px" />
-  
-  
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg" alt="HTML" width="50px" />
 </span>
+
+### Databases
+<span>
+<!--   postgreSQL -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_pgsql.svg" alt="pgsql" width="50px" />
+</span>  
+
+### Frameworks
+<span>
+  <!--   REACT -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactjs.svg" alt="react js" width="50px" />
+  <!-- Handlebars -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_handlebars.svg" alt="handlebars" width="50px" />
+<!--   jest -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jest.svg" alt="jest" width="50px" />
+  <!-- maven -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_maven.svg" alt="maven" width="50px" />
+</span> 
+
+### Cloud 
+<span>
+<!--   AWS  -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" alt="AWS" width="50px" />
+  </span>
+  
+### Other
+<span>
+  <!--  illustrator -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_ai2.svg" alt="illustrator" width="50px" />
+  <!-- Photoshop -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_photoshop2.svg" alt="photoshop" width="50px" />
+<!--   after effects -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="50px" />
+  <!-- wordpress -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/512px-Wordpress-Logo.svg.png" alt="wordpress" width="50px" />
+</span>  
