@@ -1,31 +1,26 @@
-### Hi, I'm Kara!
-<!-- links to pages -->
-<span>
-<a href="https://www.linkedin.com/in/karalynnpartain/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of linkedIn" width="20px" />
-</a>
- Let's connect!
-</span>
+### Hi, I'm Kara!    <span><a href="https://www.linkedin.com/in/karalynnpartain/">Let's Connect <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of linkedIn" width="15px" /></a></span>
 
 ### What I'm currently working on:
-  Coding Dojo 14 Week Full Stack (daily algos in each stack)
-  1. <a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed Score 10/10
-  2. <a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a>
-  3. More to come!
+Coding Dojo 14 Week Full Stack (daily algos in each stack)
+<ul>
+<li><a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed Score 10/10</li>
+<li><a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a></li>
+<li>More to come!</li>
+</ul>
 
 
 <!-- repo highlights bullet points -->
 ### Repo Highlight Reel 
 In progress
-<ol>
-  <li><a href="https://github.com/keyes9056/BjornRepo">Code Pair Website Redesign Using Elementor</a></li>
-  <li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Interview Preparation Website</a></li>
-</ol>
+<ul>
+<li><a href="https://github.com/keyes9056/BjornRepo">Code Pair Website Redesign Using Elementor</a></li>
+<li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Interview Preparation Website</a></li>
+</ul>
 Completed
-</ol>
+</ul>
   <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Group Project: Pitch Spork Music Review Full Stack, React</a></li>
   <li><a href="https://github.com/kpartain/cc-adopt-a-pet">Group Project: Pet Adoption Website Full Stack, React</a></li>
-</ol>
+</ul>
 
 <!-- languages/tools I use images in a row-->
 ### Languages
