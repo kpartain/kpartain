@@ -1,7 +1,6 @@
 ### Hi, I'm Kara!    <span><a href="https://www.linkedin.com/in/karalynnpartain/">Let's Connect <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of linkedIn" width="15px" /></a></span>
 
-### What I'm currently working on:
-Coding Dojo 14 Week Full Stack (daily algos in each stack)
+### What I'm currently working on: (Coding Dojo full stack, full-time)
 <ul>
 <li><a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed Score 10/10</li>
 <li><a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a></li>
@@ -11,31 +10,16 @@ Coding Dojo 14 Week Full Stack (daily algos in each stack)
 
 <!-- repo highlights bullet points -->
 ### Repo Highlight Reel 
-In progress
 <ul>
-<li><a href="https://github.com/keyes9056/BjornRepo">Code Pair Website Redesign Using Elementor</a></li>
-<li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Interview Preparation Website</a></li>
-</ul>
-Completed
-</ul>
-  <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Group Project: Pitch Spork Music Review Full Stack, React</a></li>
-  <li><a href="https://github.com/kpartain/cc-adopt-a-pet">Group Project: Pet Adoption Website Full Stack, React</a></li>
+<li><a href="https://github.com/keyes9056/BjornRepo">Code Pair Website Redesign Using Elementor</a> (in progress)</li>
+<li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Interview Preparation Website</a> (in progress)</li>
+<li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Group Project: Pitch Spork Music Review Full Stack, React</a> (completed, bootcamp assignment)</li>
+<li><a href="https://github.com/kpartain/cc-adopt-a-pet">Group Project: Pet Adoption Website Full Stack, React</a> (completed, bootcamp assignment)</li>
 </ul>
 
 <!-- languages/tools I use images in a row-->
 ### Languages
-<span>
-  <!-- Javascript -->
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_js_official.svg" alt="Javascript" width="50px" />
-  <!-- Java -->
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_java.svg" alt="Java" width="50px" />
-  <!-- Python -->
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_python.svg" alt="Python" width="50px" />
-  <!-- css -->
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_css.svg" alt="CSS" width="50px" />
-  <!-- html -->
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg" alt="HTML" width="50px" />
-</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpartain&layout=compact&amp;langs_count=8&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true)](https://github.com/kpartain/github-readme-stats)
 
 ### Databases, Cloud, Frameworks
 <span>
@@ -71,3 +55,6 @@ Completed
   <img src="https://launchacademy.com/wp-content/uploads/2019/02/logo.png" alt="launch academy" height="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Coding_Dojo.png" alt="coding dojo" height="50px" />
 </span>
+
+### Stats
+![Karalynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpartain&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true)
