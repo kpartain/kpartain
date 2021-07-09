@@ -42,14 +42,12 @@ Completed
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg" alt="HTML" width="50px" />
 </span>
 
-### Databases
+### Databases, Cloud, Frameworks
 <span>
 <!--   postgreSQL -->
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_pgsql.svg" alt="pgsql" width="50px" />
-</span>  
-
-### Frameworks
-<span>
+  <!-- AWS -->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" alt="AWS" width="50px" />
   <!--   REACT -->
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactjs.svg" alt="react js" width="50px" />
   <!-- Handlebars -->
@@ -58,15 +56,9 @@ Completed
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jest.svg" alt="jest" width="50px" />
   <!-- maven -->
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_maven.svg" alt="maven" width="50px" />
-</span> 
-
-### Cloud 
-<span>
-<!--   AWS  -->
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" alt="AWS" width="50px" />
-  </span>
+</span>  
   
-### Other
+### Other Softwares and Skills
 <span>
   <!--  illustrator -->
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_ai2.svg" alt="illustrator" width="50px" />
