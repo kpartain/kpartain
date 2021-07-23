@@ -11,6 +11,7 @@
 <!-- repo highlights bullet points -->
 ### Repo Highlight Reel 
 <ul>
+<li>[private] <a href="https://github.com/kpartain/puppy-fever">Puppy themed iOS app using xcode and firebase</a> (in progress)</li>
 <li><a href="https://github.com/keyes9056/BjornRepo">Code Pair Website Redesign Using Elementor</a> (in progress)</li>
 <li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Interview Preparation Website</a> (in progress)</li>
 <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Group Project: Pitch Spork Music Review Full Stack, React</a> (completed, bootcamp assignment)</li>
@@ -35,6 +36,10 @@
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jest.svg" alt="jest" width="50px" />
   <!-- maven -->
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_maven.svg" alt="maven" width="50px" />
+  <!--Firebase-->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_firebase.svg" alt="Firebase" width="50px" />
+  <!--XCode-->
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_xcode.svg" alt="xcode" width="50px" />
 </span>  
   
 ### Other Softwares and Skills
