@@ -2,8 +2,9 @@
 
 ### What I'm currently working on: (Coding Dojo full stack, full-time)
 <ul>
-<li><a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed Score 10/10</li>
-<li><a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a></li>
+<li><a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed, Score 10/10, Yellow Belt</li>
+<li><a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a> - Completed, Black Belt</li>
+<li><a href="https://github.com/kpartain/java">Java / Spring v8.21</a> - current stack</li>
 <li>More to come!</li>
 </ul>
 
