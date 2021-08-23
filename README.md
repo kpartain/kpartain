@@ -4,17 +4,18 @@
 <ul>
 <li><a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed, Score 10/10, Yellow Belt</li>
 <li><a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a> - Completed, Black Belt</li>
-<li><a href="https://github.com/kpartain/java">Java / Spring v8.21</a> - current stack</li>
-<li>More to come!</li>
+<li><a href="https://github.com/kpartain/java">Java / Spring v8.21</a> - Completed, Black Belt</li>
+<li><li><a href="https://github.com/kpartain/MERN">MERN</a> - final stack, starts Monday August 30th</li>
 </ul>
 
 
 <!-- repo highlights bullet points -->
 ### Repo Highlight Reel 
 <ul>
+<li>[private] <a href="https://github.com/kpartain/cardboard">Collectable Cards Storage Web App</a> (in progress)</li>
 <li>[private] <a href="https://github.com/kpartain/puppy-fever">Puppy themed iOS app using xcode and firebase</a> (in progress)</li>
 <li><a href="https://github.com/keyes9056/BjornRepo">Code Pair Website Redesign Using Elementor</a> (in progress)</li>
-<li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Interview Preparation Website</a> (in progress)</li>
+<li><a href="https://github.com/ikrisa10/interview-questions-with-count-down">Simple Interview Preparation Website</a> (in progress)</li>
 <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Group Project: Pitch Spork Music Review Full Stack, React</a> (completed, bootcamp assignment)</li>
 <li><a href="https://github.com/kpartain/cc-adopt-a-pet">Group Project: Pet Adoption Website Full Stack, React</a> (completed, bootcamp assignment)</li>
 </ul>
