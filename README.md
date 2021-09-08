@@ -5,7 +5,7 @@
 <li><a href="https://github.com/kpartain/working">HTML/CSS/JS</a> - Completed, Score 10/10, Yellow Belt</li>
 <li><a href="https://github.com/kpartain/python">Python (Fundamentals, Flask, MySQL, AJAX)</a> - Completed, Black Belt</li>
 <li><a href="https://github.com/kpartain/java">Java / Spring v8.21</a> - Completed, Black Belt</li>
-<li><a href="https://github.com/kpartain/MERN">MERN</a> - final stack, starts Monday August 30th</li>
+<li><a href="https://github.com/kpartain/MERN">MERN</a> - in progress [<a href="https://github.com/kpartain/MERN/tree/main/fullstack">boilerplate fullstack with validations for reference</a>]</li>
 </ul>
 
 
